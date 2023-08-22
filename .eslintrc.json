@@ -18,7 +18,8 @@
               }
             ]
           }
-        ]
+        ],
+        "@nx/workspace/my-custom-rule": "error"
       }
     },
     {
